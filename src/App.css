@@ -48,3 +48,26 @@ header > p {
   border: none;
 
 }
+
+.letter-button {
+  font-size: 18px;
+  font-weight: 700;
+  font-style: bold;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #F9F4DA;
+  background-color: #323232;
+  height: 40px;
+  width: 40px;
+  padding: 4.5px;
+  border:none;
+  border-bottom: 1px solid #F9F4DA;
+  
+}
+
+.word-container {
+  display: flex;
+  gap: 2px;
+  justify-content: center;
+  
+}
