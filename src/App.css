@@ -98,3 +98,19 @@ header > p {
   border-radius: 4px;
   
 }
+
+.reset-button {
+  font-size: 16px;
+  font-weight: 600;
+  font-style: semi-bold;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #1E1E1E;
+  background-color: #11B5E5;
+  height: 40px;
+  width: 228px;
+  padding: 6px 12px;
+  border: 1px solid #D7D7D7;
+  border-radius: 4px;
+  
+}
